@@ -24,19 +24,22 @@
       * **api-error** - for **simple-mocks.errors**
       * **api-localization** - for **simple-mocks.localizations**
 
-2. Async Service
+2. Dynamic Property Service
+   Provide ability to manipulate properties. 
+
+3. Async Service
    Provide ability to execute async tasks using persitent data base.
 
-3. Session Service
+4. Session Service
    Provide ability to store data into persistent storage.
 
-4. Storage Service
+5. Storage Service
    Provide ability to store files.
 
-5. Document Render Service
+6. Document Render Service
    Provide ability to render documents via one of supported render engine: freemarker, jasper, jolt.
 
-6. Application Framework
+7. Application Framework
    Provide ability to create application, catacolize whem and use via Web UI or Console.
 
    
