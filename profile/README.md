@@ -1,6 +1,6 @@
 # Description
 
-Simple Mocks is main project of this organisation.
+Web App Hub is main project of this organisation.
 
 It's aimed to create useful tools for:
 1. Mocking HTTP requests
